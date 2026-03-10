@@ -1,4 +1,4 @@
-# Basics and Applications of Artificial Intelligence Technology
+# Basics and Applications of Deep Learning Technology
 
 <div align="center">
 
@@ -8,7 +8,7 @@ English | [简体中文](./README.md)
 
 ---
 
-This repository is a companion code to the book "Fundamentals and Applications of Artificial Intelligence Techniques" written by VSISLAB
+This repository is a companion code to the book "Fundamentals and Applications of Deep Learning Techniques"
 
 Chapters 1 do not involve practice, no supporting code
 
